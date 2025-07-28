@@ -201,3 +201,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Binary archives of any kind are not allowed:
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+*.tgz
+*.hdt
+*.mod
+*.jar
+*.war
